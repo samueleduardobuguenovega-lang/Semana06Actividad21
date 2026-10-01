@@ -2,7 +2,7 @@
     <string name="app_name">Semana 06 Actividad 2.1</string>
     <string name="titulo_principal">Comunicacion entre Activities con Intents</string>
     <string name="hint_nombre_foto">Nombre de la foto</string>
-    <string name="btn_aceptar">ACEPTAR</string>
+    <string name="btn_aceptar">MOSTRAR FOTO</string>
     <string name="btn_hacer_foto">HACER FOTO</string>
     <string name="btn_limpiar">LIMPIAR</string>
     <string name="desc_foto">Vista previa de la foto</string>
@@ -13,6 +13,7 @@
     <string name="btn_volver">VOLVER</string>
     <string name="titulo_compartir">Compartir nombre de la foto</string>
     <string name="msg_falta_nombre">Debes escribir el nombre de la foto</string>
+    <string name="msg_falta_foto">Debes hacer una foto primero</string>
     <string name="msg_sin_camara">No hay una aplicacion de camara disponible</string>
     <string name="msg_foto_cancelada">No se tomo la foto</string>
     <string name="msg_foto_sin_imagen">La camara no devolvio ninguna imagen</string>
